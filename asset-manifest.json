@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/proyect-restaurant/static/css/main.3b1ed572.css",
-    "main.js": "/proyect-restaurant/static/js/main.871778a2.js",
-    "static/media/burgergif.gif": "/proyect-restaurant/static/media/burgergif.e01e6e01f2179e406296.gif",
-    "static/media/icedcoffee.png": "/proyect-restaurant/static/media/icedcoffee.c194da2ed42b714dfb3b.png",
-    "static/media/as2.png": "/proyect-restaurant/static/media/as2.9911ce48394073f7dfe8.png",
-    "static/media/hamburger.png": "/proyect-restaurant/static/media/hamburger.656b761655e8b5ef5de6.png",
-    "static/media/fries.png": "/proyect-restaurant/static/media/fries.758c6b7f12ab4a90a954.png",
-    "static/media/as1.jpg": "/proyect-restaurant/static/media/as1.b8864b18028e22c6e086.jpg",
-    "static/media/background.jpg": "/proyect-restaurant/static/media/background.5cd298290eb87694209a.jpg",
-    "static/media/contact-modal-img.jpg": "/proyect-restaurant/static/media/contact-modal-img.3e543344122e7b7d1b6e.jpg",
-    "static/media/form-modal-img.jpg": "/proyect-restaurant/static/media/form-modal-img.ac61c6d9818b096d003f.jpg",
-    "index.html": "/proyect-restaurant/index.html",
-    "main.3b1ed572.css.map": "/proyect-restaurant/static/css/main.3b1ed572.css.map",
-    "main.871778a2.js.map": "/proyect-restaurant/static/js/main.871778a2.js.map"
+    "main.css": "/https//DannyCruz1999.github.io/proyect-restaurant/static/css/main.4dc11583.css",
+    "main.js": "/https//DannyCruz1999.github.io/proyect-restaurant/static/js/main.112697b0.js",
+    "static/media/burgergif.gif": "/https//DannyCruz1999.github.io/proyect-restaurant/static/media/burgergif.e01e6e01f2179e406296.gif",
+    "static/media/icedcoffee.png": "/https//DannyCruz1999.github.io/proyect-restaurant/static/media/icedcoffee.c194da2ed42b714dfb3b.png",
+    "static/media/hamburger.png": "/https//DannyCruz1999.github.io/proyect-restaurant/static/media/hamburger.656b761655e8b5ef5de6.png",
+    "static/media/dining.jpg": "/https//DannyCruz1999.github.io/proyect-restaurant/static/media/dining.c977bcc3f27f3c8f60db.jpg",
+    "static/media/fries.png": "/https//DannyCruz1999.github.io/proyect-restaurant/static/media/fries.758c6b7f12ab4a90a954.png",
+    "static/media/background.jpg": "/https//DannyCruz1999.github.io/proyect-restaurant/static/media/background.5cd298290eb87694209a.jpg",
+    "static/media/contact-modal-img.jpg": "/https//DannyCruz1999.github.io/proyect-restaurant/static/media/contact-modal-img.3e543344122e7b7d1b6e.jpg",
+    "static/media/form-modal-img.jpg": "/https//DannyCruz1999.github.io/proyect-restaurant/static/media/form-modal-img.ac61c6d9818b096d003f.jpg",
+    "index.html": "/https//DannyCruz1999.github.io/proyect-restaurant/index.html",
+    "main.4dc11583.css.map": "/https//DannyCruz1999.github.io/proyect-restaurant/static/css/main.4dc11583.css.map",
+    "main.112697b0.js.map": "/https//DannyCruz1999.github.io/proyect-restaurant/static/js/main.112697b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b1ed572.css",
-    "static/js/main.871778a2.js"
+    "static/css/main.4dc11583.css",
+    "static/js/main.112697b0.js"
   ]
 }
